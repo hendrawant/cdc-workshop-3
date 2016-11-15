@@ -1,6 +1,6 @@
 {
 	"id": 1,
-	"name": "Theo",
+	"name": "Death Star MK 2",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
@@ -11,7 +11,8 @@
 		"width": 120,
 		"height": 120,
 		"power": 150,
-		"speed": 180
+		"speed": 180,
+		"defend": 200
         },
 	"price": {
     		"amount": 1000000000000,
