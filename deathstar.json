@@ -10,7 +10,8 @@
 		"lenght": 120,
 		"width": 120,
 		"height": 120,
-		"power": 150
+		"power": 150,
+		"defend": 200
         },
 	"price": {
     		"amount": 1000000000000,
